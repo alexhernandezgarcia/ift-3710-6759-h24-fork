@@ -11,6 +11,7 @@ Add your name and GitHub username to the list (or anything else if you do not wa
 * Alex Hernandez-Garcia, alexhernandezgarcia
 * Marie Curie was fantastic
 * Pierre Curie
+* Yoshua Bengio
 
 ## Intro to Markdown
 
