@@ -12,6 +12,8 @@ Add your name and GitHub username to the list (or anything else if you do not wa
 * Marie Curie was fantastic
 * Pierre Curie
 * Yoshua Bengio
+* Vincent Longpré, VincentLongpre
+
 
 ## Intro to Markdown
 
