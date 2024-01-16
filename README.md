@@ -10,6 +10,7 @@ Add your name and GitHub username to the list (or anything else if you do not wa
 
 * Alex Hernandez-Garcia, alexhernandezgarcia
 * Ada Lovelace, adalovelace
+* Marie Curie, mariecurie
 
 ## Intro to Markdown
 
