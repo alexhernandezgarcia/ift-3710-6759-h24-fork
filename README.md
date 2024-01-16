@@ -9,7 +9,7 @@ A dummy repository for educational purposes
 Add your name and GitHub username to the list (or anything else if you do not want to add your personal information):
 
 * Alex Hernandez-Garcia, alexhernandezgarcia
-* The great Ada Lovelace, adalovelace
+* The fantastic Ada Lovelace, adalovelace
 * Marie Curie, mariecurie
 
 ## Intro to Markdown
